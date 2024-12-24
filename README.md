@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Manoharan Laksan / Hello, I'm Manoharan Laksan!
+# 👋 Bonjour, je suis Manoharan Laksan / Hello, I'm Manoharan Laksan !
 
 ## 🚀 À propos de moi / About Me
 - 🌱 Je suis un étudiant en troisième année de BUT Informatique. / I am a third-year computer science student.
