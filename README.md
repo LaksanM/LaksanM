@@ -27,8 +27,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaksanM&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaksanM&theme=radical)
-
 ## 📫 Me Contacter / Contact Me
 - **Email:** manoharan.laksan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/laksan-manoharan-0579791b7/)
