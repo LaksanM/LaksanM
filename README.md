@@ -23,6 +23,14 @@
 ### Gestion de Projet / Project Management:
 - AGILE, Analyse cahier des charges, Git
 
+## 📈 Statistiques GitHub / GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
 ## 📫 Me Contacter / Contact Me
 - **Email:** manoharan.laksan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/laksan-manoharan-0579791b7/)
