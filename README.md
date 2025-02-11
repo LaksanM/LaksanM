@@ -1,7 +1,5 @@
 # Manoharan Laksan
 
-
-
 ## Compétences
 
 ### Développement Web (Front-end)
@@ -19,11 +17,11 @@
 ### Gestion de Projet
 - AGILE, Analyse cahier des charges, Git
 
-## 📈 Statistiques GitHub
+## Statistiques GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaksanM&layout=compact&theme=radical)
 
-## 📫 Me Contacter
+## Me Contacter
 - **Email:** manoharan.laksan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/laksan-manoharan-0579791b7/)
 
