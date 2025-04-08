@@ -3,10 +3,10 @@
 ## Compétences
 
 ### Développement Web (Front-end)
-- HTML, CSS, JavaScript, React, React Native, PWA
+- HTML, CSS, JavaScript, React, React Native
 
 ### Développement Web (Back-end)
-- Node.js, MongoDB, Python, SQL, MySQL, Oracle
+- Node.js, Laravel (PHP), Java (Spring), MongoDB, Python, SQL
 
 ### Développement Logiciel
 - Java, C, C++
